@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomadcoders-reactJS/static/js/main.df828c3a.js",
-    "index.html": "/nomadcoders-reactJS/index.html",
-    "main.df828c3a.js.map": "/nomadcoders-reactJS/static/js/main.df828c3a.js.map"
+    "main.js": "/nomadcoders-react/static/js/main.31169568.js",
+    "index.html": "/nomadcoders-react/index.html",
+    "main.31169568.js.map": "/nomadcoders-react/static/js/main.31169568.js.map"
   },
   "entrypoints": [
-    "static/js/main.df828c3a.js"
+    "static/js/main.31169568.js"
   ]
 }
